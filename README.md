@@ -1,7 +1,7 @@
 # Attendance
 
 new.py File contains dummy data I have used the same for the code
-Here are the following cases which I have handling right now 
+Here are the following cases which I have handling right now </br>
 1.multiple in and no out .
 2 multiple in and single out .
 3 single in and multiple out .
